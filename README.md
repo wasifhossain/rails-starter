@@ -1,2 +1,58 @@
 # rails-starter
 Learning Ruby on Rails along with BDD, TDD &amp; Git
+
+- Getting set up with software
+    - Ubuntu 16.04
+    - Ruby 2.3.1
+    - Rails 4.2.6
+    - Atom
+- Ruby
+    - Introduction
+    - Control Flow
+    - Looping
+    - Arrays & Hashes
+    - Blocks & Sorting
+    - Hashes & Symbols
+    - Refactoring
+    - Blocks, Procs & Lambdas
+    - Object Oriented Programming
+    - Metaprogramming
+    - Iterators & Functional Idioms
+    - Mixins & Duck-typing
+    - Yield
+- Software-as-a-Service (SaaS) & REST
+    - The Web as a Client-Sever System; TCP/IP intro
+    - HTML & CSS
+    - 3-tier shared-nothing architecture & scaling
+    - Model-View-Controller
+    - Models, Databases & Active Record
+    - Controllers, Routes & RESTfulness
+    - Template Views & Haml
+- Rails
+    - Introduction: from ZERO to CRUD
+    - Debugging
+    - Database & Migrations
+    - Models: Active Record Basics
+    - Models: Finding, Updating & Deleting
+    - Controllers & Views
+    - Forms
+    - Redirection, the Flash & the Session
+    - Finishing CRUD
+- BDD with Cucumber & Capybara
+    - Introduction to BDD & User Stories
+    - SMART User Stories
+    - Lo-Fi UI Sketches & Storyboards
+    - Explicit vs Implicit & Imperative vs Declarative Scenarios
+    - Introducing Cucumber & Capybara
+    - Running Cucumber & Capybara
+    - Conclusion: BDD Pros & Cons
+- TDD with RSpec
+    - RSPec Rails & TDD Cycle: Red-Green-Refactor
+    - How to Test in Isolation
+    - Seams
+    - Expectations
+    - Mocks, Stubs & Test Setup
+    - Fixtures & Factories
+    - TDD for the Model & Stubbing the Internet
+    - Coverage, Unit vs Integration Tests
+    - Other Testing Concepts and Testing vs Debugging
